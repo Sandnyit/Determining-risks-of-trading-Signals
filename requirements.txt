@@ -1,0 +1,14 @@
+Flask==1.1.1
+gunicorn==20.0.4
+boto3==1.10.50
+jinja2==3.0.3
+werkzeug==2.0.3
+itsdangerous==2.0.1
+
+pandas
+yfinance
+pandas_datareader
+matplotlib
+numpy
+awswrangler
+s3fs

@@ -1,0 +1,2 @@
+runtime: python38
+entrypoint: gunicorn -t 0 -b :$PORT main:app
